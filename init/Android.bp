@@ -86,7 +86,7 @@ cc_defaults {
         "-Werror",
         "-Wthread-safety",
         "-DALLOW_FIRST_STAGE_CONSOLE=0",
-        "-DALLOW_LOCAL_PROP_OVERRIDE=0",
+        "-DALLOW_LOCAL_PROP_OVERRIDE=1",
         "-UALLOW_PERMISSIVE_SELINUX",
         "-DALLOW_PERMISSIVE_SELINUX=1",
         "-DREBOOT_BOOTLOADER_ON_PANIC=0",
