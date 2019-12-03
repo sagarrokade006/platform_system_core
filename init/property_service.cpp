@@ -807,7 +807,7 @@ static const char *snet_prop_value[] = {
 	"release-keys",
 	"release-keys",
 	"release-keys",
-	"1",
+	"0",
 	NULL
 };
 
